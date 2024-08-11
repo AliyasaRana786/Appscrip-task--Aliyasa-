@@ -77,10 +77,10 @@ export default function Footer() {
                                     <p className='mb-4 mt-5'>metta muse ACCEPTS</p>
                                     <div className="footer_pay_img">
                                         <img className='img-fluid' src="https://1000logos.net/wp-content/uploads/2023/03/Google-Pay-logo.png" alt="bcdhbs464@!@#" />
-                                        <img className='img-fluid mx-2' src="../images/applepay.webp" alt="bcdhbs4bhuawfebsj2657435" />
-                                        <img className='img-fluid mx-2' src="../images/paytmpay.svg" alt="*&&^%$789cbcdhbs464@!@#" />
-                                        <img className='img-fluid mx-2' src="../images/phonepay.png" alt="aliyasbhjbds00987%^%$bcdhbs464@!@#" />
-                                        <img className='img-fluid mx-2' src="../images/qpay.jpeg" alt="bhfhdsshbs147852!@#$%^&*" />
+                                        <img className='img-fluid mx-2' src="https://i.pinimg.com/736x/8a/91/46/8a9146626fb139b4d6bff3f091d47ca8.jpg" alt="bcdhbs4bhuawfebsj2657435" />
+                                        <img className='img-fluid mx-2' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGn9GdgUe4dKibuwCZ7EMvKPnyA53vEBapA&s" alt="*&&^%$789cbcdhbs464@!@#" />
+                                        <img className='img-fluid mx-2' src="https://download.logo.wine/logo/PhonePe/PhonePe-Logo.wine.png" alt="aliyasbhjbds00987%^%$bcdhbs464@!@#" />
+                                        <img className='img-fluid mx-2' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5uYWgfDCcq9Y20YdBR2vUzKLcLs4l9qHZw&s" alt="bhfhdsshbs147852!@#$%^&*" />
                                     </div>
                                 </div>
                             </div>
