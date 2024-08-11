@@ -76,7 +76,7 @@ export default function Footer() {
                                 <div className="footer_pay">
                                     <p className='mb-4 mt-5'>metta muse ACCEPTS</p>
                                     <div className="footer_pay_img">
-                                        <img className='img-fluid' src="../images/gpay.jpg" alt="bcdhbs464@!@#" />
+                                        <img className='img-fluid' src="https://1000logos.net/wp-content/uploads/2023/03/Google-Pay-logo.png" alt="bcdhbs464@!@#" />
                                         <img className='img-fluid mx-2' src="../images/applepay.webp" alt="bcdhbs4bhuawfebsj2657435" />
                                         <img className='img-fluid mx-2' src="../images/paytmpay.svg" alt="*&&^%$789cbcdhbs464@!@#" />
                                         <img className='img-fluid mx-2' src="../images/phonepay.png" alt="aliyasbhjbds00987%^%$bcdhbs464@!@#" />
