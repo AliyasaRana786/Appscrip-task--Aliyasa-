@@ -9,7 +9,7 @@ export default function Navbar() {
                     <div className="row">
                         <div className="col-lg-4 col-md-4 col-4">
                             <div className="nav_logo ">
-                                <img src="../images/nav_logo.png" alt="Company Logo" />
+                                <img src="https://i.pinimg.com/474x/ef/c1/b0/efc1b083375acaada4e25ab48b47ae72.jpg" alt="Company Logo" />
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-4 col-4">

@@ -93,9 +93,10 @@ h6 {
     }
 
     .nav_logo img {
-        height: 55px;
+        height: 60px;
         width: 60px;
         object-fit: cover;
+       
     }
 
     .logo {
